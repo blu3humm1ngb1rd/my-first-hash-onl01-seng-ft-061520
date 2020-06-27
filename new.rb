@@ -3,4 +3,7 @@ def method
   our_hash = {}
   
   
-end 
+end
+
+
+our_hash[key] = value 
