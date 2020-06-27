@@ -1,6 +1,6 @@
 def method 
   
-  our_hash = {first_name: "last name1", }
+  our_hash = {first_name: last_name}
   
   
 end
